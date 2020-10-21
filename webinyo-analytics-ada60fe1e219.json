@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "webinyo-analytics",
+  "private_key_id": "ada60fe1e219c3031101ca318f3800347c5342dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCMWhqgrgkluegi\n1lyR0s6kix9bdISHbxs1RXb6crF1iJ3JeziYpQj99951eNqAjNRrk/RUdsd1omfs\nMjbBK6+I3CdxrW5AVVXn0y1q+sj8mC1r8aZpa66b0tFKy8Z64I/bkz+D40aB4B7G\npCv6q24h6/AfQRrbuRxhJJ+Q0KLlkOBmQPXGU4jzF+zGONZ/iKWCUjPBND2MyWl0\nFTxMcJPozlyysqs49egKWtBwkKWVeXjmVdy/nxR6zjQE9emuPTNa+i1k6f0e2lpj\n4KcYVG8z31jQuXyvyCDld8ZgQiPLmehVDAUB1VtSc4V14nkoHe5DWjFRP2cdUVke\nSDiVhWjPAgMBAAECggEADzflQ5Sgt59WXTyqx0G5QrHhIbdbIsejMXNe83NvQY7M\nM8txd2phtLllPONF/K1d38JTD7uHZNPKJUbL6sXetTN7RWy9k9U3njj8POmE1JAi\n+12K9/Wt9lsgHYDwpw86xLTNLMhT3gOcDVmXeTPlxQuCZb6B997fsGWFCxyhpSGX\nep7Q5n5D247MKgkZf7M6/1P745W1rsF9HeJN3hM8Ync/FxHWXIvNcvrT7dR0Ff3O\n4e13ySTkWx3y7zt+vrhX+wcNHzCAVikGDqL3mQCngJIekqzMaiRtL5BSmNG0DeBN\nTZY+sDVXgyFy0ldkUoHE9QMP2cZxs0wBmN1XrnIKtQKBgQC+QbrWcBXbmEaSgfhk\nFZ8udQqkDwYEa3FdkQOvat6xkTwkPQY7vR1w+Mq2zZ8YNb0Xh6u5xGE+yPpcJDec\nA7NRC9qVChWA1gNl7vxTdiLvOwQckOI2n4l9UJP6Wmz5Sq7CkDtTZ+g0XhREFX82\nNSSvl3cbpXc3gywQ43j1RH2EuwKBgQC82cFb3aczLRo3n14bN19hQrelOwMcDBna\nkTj1awy7I7n1zUuMcKp3oPsLNXMdBROempd2RG0QRuyYvMr8KeuERTQQYbA4JjsK\n7KmMpPCwztW00hPEvd375blGjo+Zp/BYwRdE1+T15Tyqw2s9vbs2AmBifQE9Dgfg\npPQe9PX0/QKBgB5W9weJOkMZhm+IoGa9d/P9oCPHbYs44wwruu23Winw4ilZPew6\n3T4Nvq3mHm/K6gudjAoEwgk0HZCiCegsQuUywbmwsPsppcMUmFJq7Wk+/QndJOXX\nDSLZva9Xyjb67OGEBKHpWQM42Xx9/RpU4TPLMKhM+7Tziwxqafia4nVPAoGAd2JZ\nQA/xYQLELiGLRj1NCJk6qzORFav4tBlWHp9b3voI1wC/H7shqJqV2VIiwVeyPXOR\nCGzdXYrYiv3efGarwmRVM33t/rD8Zj2SOZ0To1I9+x9K6/bzXAivhZEd6o8l+5Wl\ndhndXi1amsELDG7i6JO8Bsbrf4NdK4Bb6y4ERqkCgYATbkapUcVNF6Bq2+FgXbHd\nljpnWnBzuqjeXuti0m2bfV8uO5+srdzjG5NEfaybpnyzONlqrfWV35gBdxMv7yf+\nd8ve671pUzsynceMc+QvbEqKO0H2E2Aj5MXwjC0631O6WEZ2GZOAj5nJcccN2L1j\nkk4zxrQ2SBIpr9Q6bSLHyw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "webinyo-analytics-php@webinyo-analytics.iam.gserviceaccount.com",
+  "client_id": "115231805342416597118",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/webinyo-analytics-php%40webinyo-analytics.iam.gserviceaccount.com"
+}
