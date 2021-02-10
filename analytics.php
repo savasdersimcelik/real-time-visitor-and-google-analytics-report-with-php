@@ -15,6 +15,7 @@ $result = $analytics->data_ga->get(
     '30daysAgo',
     'today',
     'ga:newUsers,ga:sessions,ga:pageviews,ga:hits',
+    'today',
     [
         'dimensions' => 'ga:date'
     ]
